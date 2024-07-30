@@ -128,3 +128,4 @@ def user(request):
 
     serializer = serializers.UserSerializer(user)
     return response.Response(serializer.data)
+
