@@ -19,17 +19,6 @@ Ensure you have the following installed on your local machine:
 - Node.js v14.15.0 or higher
 - npm 6.14.9 or higher
 
-### Setup
-
-1. Clone the repository:
-    ```
-    git clone https://github.com/metricsnavigator-lab/challenge.git
-    ```
-2. Change into the directory:
-    ```
-    cd challenge
-    ```
-
 ### Server
 
 1. Navigate to the `server` directory:
